@@ -1,7 +1,7 @@
 import javafx.application.Application;
 import dashboard.Dashboard;
 
-//Ciao Alessio
+//Ciao Alessio tutto bene ?
 
 public class Main {
     public static void main(String[] args) {
